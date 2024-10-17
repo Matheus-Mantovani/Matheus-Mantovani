@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-mantovani&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=matheus-mantovani&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-mantovani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheus-mantovani&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=matheus-mantovani&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheus-mantovani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-mantovani&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheus-mantovani&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
