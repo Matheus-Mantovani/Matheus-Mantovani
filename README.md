@@ -41,9 +41,6 @@
 ###
 
 <div align="center">
-  <a href="https://instagram.com/matheusmantovani" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="55" alt="instagram logo"  />
-  </a>
   <a href="mailto:mantovanimatheus335@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="55" alt="gmail logo"  />
   </a>
